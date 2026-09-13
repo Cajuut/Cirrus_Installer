@@ -1,2 +1,2 @@
 # Cirrus_Installer
-CirrusのInstallerとupdater
+CirrusのInstallerとUpdater
