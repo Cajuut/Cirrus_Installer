@@ -1,7 +1,7 @@
 {
-  "version": "0.1.3",
-  "download_url": "https://github.com/Cajuut/Cirrus_Installer/releases/download/0.1.3/Cirrus_Installer.exe",
+  "version": "0.1.0",
+  "download_url": "https://github.com/Cajuut/Cirrus_Installer/releases/download/0.1.0/Cirrus_Installer.exe",
   "notes": [
-    "This is the 2nd initial release of Cirrus Launcher."
+    "This is the initial release of Cirrus Launcher."
   ]
 }
