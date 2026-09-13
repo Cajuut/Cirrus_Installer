@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "download_url": "https://github.com/Cajuut/Cirrus_Installer/releases/download/v0.1.0/CirrusLauncher_Setup.exe",
+  "notes": [
+    "Cirrus Launcherの初回リリース版です。",
+    "Toggle Sprint（Fly Boost全方向対応）を実装しました。",
+    "インストーラーのUIとオリジナルアイコンを適用しました。"
+  ]
+}
