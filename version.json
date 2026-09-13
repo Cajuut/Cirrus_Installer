@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "download_url": "https://github.com/Cajuut/Cirrus_Installer/releases/download/0.1.1/Cirrus_Installer.exe",
+  "version": "0.1.2",
+  "download_url": "https://github.com/Cajuut/Cirrus_Installer/releases/download/0.1.2/Cirrus_Installer.exe",
   "notes": [
-    "自動アップデート機能を追加"
+    "Add DiscordRPC"
   ]
 }
